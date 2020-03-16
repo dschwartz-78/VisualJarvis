@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48103fd8-e1ae-446c-81fb-69e2f817a838" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="VisualJarvis" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XlahR3JuUtb65Cm4s2nNCXxX16" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.config_video">
+    <configuration name="config_video" type="PythonConfigurationType" factoryName="Python">
+      <module name="VisualJarvis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/cv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_tracking.py" />
+      <option name="PARAMETERS" value="--video hand_control_1.mp4" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config_webcam" type="PythonConfigurationType" factoryName="Python">
+      <module name="VisualJarvis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/cv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_tracking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.config_video" />
+      <item itemvalue="Python.config_webcam" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48103fd8-e1ae-446c-81fb-69e2f817a838" name="Default Changelist" comment="" />
+      <created>1581623253483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581623253483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581696286628">
+      <screen x="48" y="23" width="1632" height="1027" />
+    </state>
+    <state x="329" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/48.23.1632.1027@48.23.1632.1027" timestamp="1581696286628" />
+    <state x="628" y="247" key="#xdebugger.evaluate" timestamp="1581625873503">
+      <screen x="48" y="23" width="1632" height="1027" />
+    </state>
+    <state x="628" y="247" key="#xdebugger.evaluate/48.23.1632.1027@48.23.1632.1027" timestamp="1581625873503" />
+    <state width="1611" height="344" key="GridCell.Tab.0.bottom" timestamp="1581955232303">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1611" height="344" key="GridCell.Tab.0.bottom/43.23.1637.1027@43.23.1637.1027" timestamp="1581955232303" />
+    <state width="982" height="280" key="GridCell.Tab.0.bottom/45.23.1635.1027@45.23.1635.1027" timestamp="1581630485498" />
+    <state width="1611" height="344" key="GridCell.Tab.0.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1581952416466" />
+    <state width="1609" height="280" key="GridCell.Tab.0.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1581696329169" />
+    <state width="982" height="345" key="GridCell.Tab.0.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1581694143409" />
+    <state width="1611" height="344" key="GridCell.Tab.0.center" timestamp="1581955232302">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1611" height="344" key="GridCell.Tab.0.center/43.23.1637.1027@43.23.1637.1027" timestamp="1581955232302" />
+    <state width="982" height="280" key="GridCell.Tab.0.center/45.23.1635.1027@45.23.1635.1027" timestamp="1581630485496" />
+    <state width="1611" height="344" key="GridCell.Tab.0.center/47.23.1633.1027@47.23.1633.1027" timestamp="1581952416465" />
+    <state width="1609" height="280" key="GridCell.Tab.0.center/48.23.1632.1027@48.23.1632.1027" timestamp="1581696329168" />
+    <state width="982" height="345" key="GridCell.Tab.0.center/50.23.1630.1027@50.23.1630.1027" timestamp="1581694143407" />
+    <state width="1611" height="344" key="GridCell.Tab.0.left" timestamp="1581955232301">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1611" height="344" key="GridCell.Tab.0.left/43.23.1637.1027@43.23.1637.1027" timestamp="1581955232301" />
+    <state width="982" height="280" key="GridCell.Tab.0.left/45.23.1635.1027@45.23.1635.1027" timestamp="1581630485495" />
+    <state width="1611" height="344" key="GridCell.Tab.0.left/47.23.1633.1027@47.23.1633.1027" timestamp="1581952416464" />
+    <state width="1609" height="280" key="GridCell.Tab.0.left/48.23.1632.1027@48.23.1632.1027" timestamp="1581696329167" />
+    <state width="982" height="345" key="GridCell.Tab.0.left/50.23.1630.1027@50.23.1630.1027" timestamp="1581694143406" />
+    <state width="1611" height="344" key="GridCell.Tab.0.right" timestamp="1581955232302">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1611" height="344" key="GridCell.Tab.0.right/43.23.1637.1027@43.23.1637.1027" timestamp="1581955232302" />
+    <state width="982" height="280" key="GridCell.Tab.0.right/45.23.1635.1027@45.23.1635.1027" timestamp="1581630485497" />
+    <state width="1611" height="344" key="GridCell.Tab.0.right/47.23.1633.1027@47.23.1633.1027" timestamp="1581952416465" />
+    <state width="1609" height="280" key="GridCell.Tab.0.right/48.23.1632.1027@48.23.1632.1027" timestamp="1581696329169" />
+    <state width="982" height="345" key="GridCell.Tab.0.right/50.23.1630.1027@50.23.1630.1027" timestamp="1581694143408" />
+    <state width="1611" height="344" key="GridCell.Tab.1.bottom" timestamp="1581955232305">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1611" height="344" key="GridCell.Tab.1.bottom/43.23.1637.1027@43.23.1637.1027" timestamp="1581955232305" />
+    <state width="1611" height="344" key="GridCell.Tab.1.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1581952416472" />
+    <state width="1609" height="345" key="GridCell.Tab.1.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1581625875166" />
+    <state width="982" height="345" key="GridCell.Tab.1.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1581694143410" />
+    <state width="1611" height="344" key="GridCell.Tab.1.center" timestamp="1581955232304">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1611" height="344" key="GridCell.Tab.1.center/43.23.1637.1027@43.23.1637.1027" timestamp="1581955232304" />
+    <state width="1611" height="344" key="GridCell.Tab.1.center/47.23.1633.1027@47.23.1633.1027" timestamp="1581952416467" />
+    <state width="1609" height="345" key="GridCell.Tab.1.center/48.23.1632.1027@48.23.1632.1027" timestamp="1581625875165" />
+    <state width="982" height="345" key="GridCell.Tab.1.center/50.23.1630.1027@50.23.1630.1027" timestamp="1581694143409" />
+    <state width="1611" height="344" key="GridCell.Tab.1.left" timestamp="1581955232303">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1611" height="344" key="GridCell.Tab.1.left/43.23.1637.1027@43.23.1637.1027" timestamp="1581955232303" />
+    <state width="1611" height="344" key="GridCell.Tab.1.left/47.23.1633.1027@47.23.1633.1027" timestamp="1581952416467" />
+    <state width="1609" height="345" key="GridCell.Tab.1.left/48.23.1632.1027@48.23.1632.1027" timestamp="1581625875164" />
+    <state width="982" height="345" key="GridCell.Tab.1.left/50.23.1630.1027@50.23.1630.1027" timestamp="1581694143409" />
+    <state width="1611" height="344" key="GridCell.Tab.1.right" timestamp="1581955232304">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1611" height="344" key="GridCell.Tab.1.right/43.23.1637.1027@43.23.1637.1027" timestamp="1581955232304" />
+    <state width="1611" height="344" key="GridCell.Tab.1.right/47.23.1633.1027@47.23.1633.1027" timestamp="1581952416469" />
+    <state width="1609" height="345" key="GridCell.Tab.1.right/48.23.1632.1027@48.23.1632.1027" timestamp="1581625875165" />
+    <state width="982" height="345" key="GridCell.Tab.1.right/50.23.1630.1027@50.23.1630.1027" timestamp="1581694143410" />
+    <state x="543" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1581698024841">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state x="543" y="369" key="com.intellij.ide.util.TipDialog/47.23.1633.1027@47.23.1633.1027" timestamp="1581698024841" />
+    <state x="544" y="369" key="com.intellij.ide.util.TipDialog/48.23.1632.1027@48.23.1632.1027" timestamp="1581624250878" />
+    <state x="429" y="279" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581952361433">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state x="429" y="279" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/47.23.1633.1027@47.23.1633.1027" timestamp="1581952361433" />
+    <state x="529" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1581952269823">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state x="529" y="250" width="670" height="676" key="search.everywhere.popup/47.23.1633.1027@47.23.1633.1027" timestamp="1581952269823" />
+  </component>
+</project>
